@@ -1,2 +1,3 @@
 case_id,overall_score,verdict,factual_accuracy,policy_compliance,completeness,clarity,professional_tone,critical_errors
 CS001,3.0,FAIL,1,2,3,5,4,"Incorrect return period reference; unsupported original packaging requirement; unsupported immediate refund promise; incorrect statement that approval is not needed; omitted unused-item and condition-verification requirements"
+CS001,4.4,PASS,4,4,5,4,5,"NO"
